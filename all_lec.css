@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(37, 38, 39);
+    color: rgb(165, 163, 172);
+    /* background image: place your image file relative to this CSS file path */
+    background-image: url("https://images.hdqwalls.com/wallpapers/black-panther-crusader-rb.jpg?dl=1");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    font-size:5rem;
+}
+h2{
+    font-size:3rem;
+}
+
+a{
+    font-size:2rem;
+    color: rgb(137, 41, 255);
+    transition: transform 0.2s ease, color 0.2s ease;
+    display: inline-block;
+    text-decoration: none;
+}
+a:hover{
+    transform: scale(0.9); /* zoom out on hover */
+    color: rgb(174, 99, 255);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: none;
+    text-decoration-line: underline;
+
+}
