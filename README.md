@@ -26,7 +26,7 @@ git clone https://github.com/adityasingh-420/java-notes.git
 ### Open the project
 
 ```bash
-cd java-notes.git
+cd java-notes
 ```
 
 ### Run the project
