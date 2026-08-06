@@ -1,10 +1,10 @@
-# Java Notes
+# JavaScript Notes
 
-A beginner-friendly Java notes website created while learning Java programming. This project contains well-organized notes and code examples covering core Java concepts. The explanations are based on my learning and practice, inspired by the teaching style of the Chai aur Code YouTube series.
+A beginner-friendly JavaScript notes website created while learning JavaScript programming. This project contains well-organized notes and code examples covering core JavaScript concepts. The explanations are based on my learning and practice, inspired by the teaching style of the Chai aur Code YouTube series.
 
 ## Features
 
-* Beginner-friendly Java notes
+* Beginner-friendly JavaScript notes
 * Code examples with explanations
 * Clean and simple website design
 * Easy navigation for learning and revision
@@ -20,13 +20,13 @@ A beginner-friendly Java notes website created while learning Java programming. 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/adityasingh-420/java-notes.git
+git clone https://github.com/adityasingh-420/javascript-notes.git
 ```
 
 ### Open the project
 
 ```bash
-cd java-notes
+cd javascript-notes
 ```
 
 ### Run the project
@@ -39,19 +39,20 @@ Open the project folder in **VS Code** and launch the `index.html` file in your 
 * Operators
 * Conditional Statements
 * Loops
-* Methods
+* Function
 * Arrays
 * Strings
-* Objects and Classes
-* More Java concepts as the project grows
+* Objects 
+* String
+* And many more...
 
 ## Purpose
 
-This project was created to practice Java, improve programming fundamentals, and learn Git & GitHub while maintaining organized notes.
+This project was created to practice JavaScript, improve programming fundamentals, and learn Git & GitHub while maintaining organized notes.
 
 ## Acknowledgement
 
-The explanations and learning approach are inspired by the **Chai aur Code** YouTube Java series. This repository represents my own notes and implementation based on that learning.
+The explanations and learning approach are inspired by the **Chai aur Code** YouTube JavaScript series. This repository represents my own notes and implementation based on that learning.
 
 ## Disclaimer
 
