@@ -31,7 +31,9 @@ cd javascript-notes
 
 ### Run the project
 
-Open the project folder in **VS Code** and launch the `index.html` file in your browser. If you have the **Live Server** extension installed, right-click `index.html` and select **Open with Live Server**.
+Open the cloned repository in Visual Studio Code and locate the HTML file containing the final website. Open the file in your preferred web browser to view the project.
+
+For a better development experience, install the Live Server extension in VS Code, then right-click the final HTML file and select Open with Live Server.
 
 ## Topics Covered
 
