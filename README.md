@@ -1,6 +1,6 @@
 # JavaScript Notes
 
-A beginner-friendly JavaScript notes website created while learning JavaScript programming. This project contains well-organized notes and code examples covering core JavaScript concepts. The explanations are based on my learning and practice, inspired by the teaching style of the Chai aur Code YouTube series.
+A beginner-friendly JavaScript notes website created while learning JavaScript programming. This project contains well-organised notes and code examples covering core JavaScript concepts. The explanations are based on my learning and practice, inspired by the teaching style of the Chai aur Code YouTube series.
 
 ## Project Status
 
