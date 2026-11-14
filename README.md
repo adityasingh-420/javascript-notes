@@ -71,3 +71,8 @@ This project is intended for educational purposes only. Full credit for the orig
 ## Author
 
 **Aditya Singh**
+
+## LINK
+
+http://127.0.0.1:5500/all_lec.html
+
